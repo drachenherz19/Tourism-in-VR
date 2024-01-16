@@ -1,1 +1,1 @@
-# Tourism-in-VR graduate CS project created by Akhil Nair for the Fundamentals of Virtual Reality (CAP 5118) - fall 2023.
+# Tourism-in-VR: Graduate Unity 3D project developed by Akhil Nair for the course - Fundamentals of Virtual Reality (CAP 5118) during the fall of 2023.
